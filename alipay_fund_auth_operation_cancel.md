@@ -65,6 +65,7 @@ out_request_no | String | Y | 64 | The merchant freeze operation serial number. 
 action | String | N | 10 | The funds status changes that are trigged by the cancelation. Close: Close the freeze details; no funds is unfrozen. Unfreeze: funds unfrozen occurs. | Close
 
 
+[Baidu](thhp://www.baidu.com/)
 
 
 ## Request sample
@@ -118,6 +119,7 @@ echo "Fail";
 }
 ```
 
+>~~Mama said life is like a box of chocolate
 
 ### .NET edition:
 ```
@@ -178,7 +180,7 @@ https://openapi.alipay.com/gateway.do?timestamp=2013-01-01 08:08:08&method=alipa
 
 
 
-## Business error code
+## Business \*error code\*
 
 Error code	| Description	| Solution
 --- | --- | ---
